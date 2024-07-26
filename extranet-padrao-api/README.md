@@ -23,7 +23,7 @@ cp .env.example .env
 
 Acesse o container app
 ```sh
-docker-compose exec app bash
+docker-compose exec -it app bash
 ```
 
 Instale as dependências do projeto
