@@ -1,6 +1,6 @@
 # Sys Extranet
 
-O **Sys Extranet** é um sistema projetado para facilitar a troca de informações entre Franqueadores e seus Franqueados. Atualmente, está em fase de desenvolvimento e já possui alguns módulos de configuração e um módulo de Comunicados.
+O **Sys Extranet** é um sistema projetado para facilitar a troca de informações entre Franqueadores e seus Franqueados. Atualmente, está em fase de desenvolvimento e já possui alguns módulos de configurações e um módulo de Comunicados.
 
 ## Tecnologias Utilizadas
 
