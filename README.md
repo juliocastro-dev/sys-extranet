@@ -15,9 +15,9 @@ O **Sys Extranet** é um sistema projetado para facilitar a troca de informaçõ
 
 ## Módulos Atuais
 
-### Módulos de Configuração
+### Módulos de Configurações
 
-Os módulos de configuração permitem aos usuários definir parâmetros e ajustar o sistema de acordo com as necessidades específicas de cada franqueado.
+Os módulos de configurações permitem aos usuários definir parâmetros e ajustar o sistema de acordo com as necessidades específicas de cada franqueado.
 
 ### Módulo de Comunicados
 
